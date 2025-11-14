@@ -52,3 +52,13 @@ This model extends VAEs by replacing the simple Gaussian prior with a **Gaussian
 - Supports multimodal latent spaces and clustering
 
 ---
+
+## 📧 Contact  
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!  
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)  
+
+Happy coding! 🚀
