@@ -1,13 +1,13 @@
 # AutoEncoders
-## Variational Autoencoder (VAE) and Gaussian Mixture Model VAE (GMM-VAE)
+## Variational Autoencoder (VAE) and its variants
 
 This repository contains implementations of:
 
 - **Variational Autoencoder (VAE)**
-- **Gaussian Mixture Model Variational Autoencoder (GMM-VAE)**  
-  (also referred to as Mixture-of-Gaussians Prior VAE)
+- **Gaussian Mixture Model Variational Autoencoder (GMM-VAE)**
+- **VQ-VAE** 
 
-Both models are implemented from scratch using **PyTorch**, closely following the original research papers.
+All models are implemented from scratch using **PyTorch**, closely following the original research papers.
 
 ---
 
